@@ -12,7 +12,7 @@ A simple, user-friendly expense tracker built with Django and MySQL, featuring l
 ## 🛠 Tech Stack
 - Backend: Django (Python)
 - Database: MySQL
-- Frontend: HTML, CSS, Bootstrap
+- Frontend: HTML, CSS, JavaScript,  Bootstrap
 
 ## 🚀 Setup
 ```bash
